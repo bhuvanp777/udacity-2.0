@@ -1,1 +1,1 @@
-feature of adding username and password for an ecommerce and dating site and food blog and social media.
+feature of adding username and password for an ecommerce and dating site and food blog and not social media.
